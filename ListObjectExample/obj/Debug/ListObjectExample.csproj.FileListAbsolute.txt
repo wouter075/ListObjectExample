@@ -1,0 +1,6 @@
+/Users/hlw1404/RiderProjects/ListObjectExample/ListObjectExample/bin/Debug/ListObjectExample.exe
+/Users/hlw1404/RiderProjects/ListObjectExample/ListObjectExample/bin/Debug/ListObjectExample.pdb
+/Users/hlw1404/RiderProjects/ListObjectExample/ListObjectExample/obj/Debug/ListObjectExample.csprojAssemblyReference.cache
+/Users/hlw1404/RiderProjects/ListObjectExample/ListObjectExample/obj/Debug/ListObjectExample.csproj.CoreCompileInputs.cache
+/Users/hlw1404/RiderProjects/ListObjectExample/ListObjectExample/obj/Debug/ListObjectExample.exe
+/Users/hlw1404/RiderProjects/ListObjectExample/ListObjectExample/obj/Debug/ListObjectExample.pdb
